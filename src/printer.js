@@ -32,7 +32,7 @@
 };
 
 var api = new PrintNode.HTTP(
-    new PrintNode.HTTP.ApiKey('QUSUR9AoTs_MUUPBLdhA-K1y3z6OdabhdLAoE87MKfw'),
+    new PrintNode.HTTP.ApiKey('your_api_key'),
     options
 );
 
