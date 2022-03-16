@@ -1,0 +1,42 @@
+body {
+    font-family: Calibri;
+    background-color: #2e2e2f;
+
+}
+
+form input{
+    padding:15px;
+
+
+}
+form select{
+    padding:20px;
+    width:100%;
+
+
+}
+.forms button{
+    padding:20px;
+    height:100%;
+
+}
+.forms a button{
+    padding:20px;
+
+}
+.title{
+    font-size:30px;
+    color:white;
+}
+.title h2{
+    border:10px solid black;
+    padding:20px;
+    border-radius:2em;
+    background-color: #4c4c4c;
+}
+.formsContainer{
+    width: 395px;
+    border:10px solid #4c4c4c;
+    border-radius:1em;
+
+}
