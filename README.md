@@ -6,3 +6,4 @@
 
 
 ## api call json moet nog aanpasbaar en auto gemaakt worden
+## print labels ter groote van 4in bij 6in
